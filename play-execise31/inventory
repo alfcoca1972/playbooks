@@ -1,0 +1,5 @@
+[dbservers]
+vm-16-node1-ansible
+
+[webservers]
+vm-16-node2-ansible
