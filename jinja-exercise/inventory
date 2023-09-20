@@ -1,0 +1,4 @@
+[webservers]
+node1.example.com
+[workstations]
+control.lab.example.com
